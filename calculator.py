@@ -8,7 +8,7 @@ def divide(x, y):
    return x / y  
 def modulus(x,y):
    return x % y
-print("Select operation.")  
+print("Select an operation")  
 print("1.Add")  
 print("2.Subtract")  
 print("3.Multiply")  
