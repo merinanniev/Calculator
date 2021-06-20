@@ -36,4 +36,4 @@ elif choice == '5':
    print(num1,"%",num2,"=", modulus(num1,num2)) 
 
 else:  
-   print("Invalid input")  
+   print("This is an invalid input")  
